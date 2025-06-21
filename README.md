@@ -1,6 +1,6 @@
 # 🚀 Tên Dự Án
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)(https://github.com/Ovil8792/ERD/blob/main/LICENSE)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
