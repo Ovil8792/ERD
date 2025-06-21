@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-[MIT](https://github.com/Ovil8792/ERD/blob/main/LICENSE)
+[MIT License](https://github.com/Ovil8792/ERD/blob/main/LICENSE)
 
 > Một đoạn giới thiệu ngắn gọn: đây là project giúp bạn làm gì, dùng công nghệ nào, v.v.
 
