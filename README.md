@@ -6,7 +6,10 @@
 
 [MIT License](https://github.com/Ovil8792/ERD/blob/main/LICENSE)
 
-> Một đoạn giới thiệu ngắn gọn: đây là project giúp bạn làm gì, dùng công nghệ nào, v.v.
+> ERD là 1 project web do mình tự code và tùy chỉnh.
+> Tuy hiện tại chỉ có php nhưng càng về sau sẽ càng có nhiều thứ được đưa vào.
+> Dự định của mình là sẽ áp dụng 1,2 hoặc 3 ngôn ngữ khác để chạy web.
+> Hy vọng ai đó thấy repo này thì cho mình xin đóng góp ý kiến nha!
 
 ---
 
@@ -26,5 +29,5 @@
 Clone repo:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Ovil8792/ERD.git
+cd ERD
